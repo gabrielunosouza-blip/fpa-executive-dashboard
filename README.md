@@ -42,5 +42,4 @@ Linkedin: **www.linkedin.com/in/gabriel-henrique-de-souza-cardoso-9aa9b7217**
 
 ---
 
-## 👤 Autor
 Projeto desenvolvido para fins de portfólio profissional e demonstração de competências técnicas em FP&A e Análise de Dados.
